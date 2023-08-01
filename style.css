@@ -10,7 +10,7 @@ h1 {text-align: center;
 
 .box {
 	background-color: darkcyan;
-	margin-right: auto;
+	margin-right: 50px;
 	margin-left: 50px;
 	margin-top: 20px;
 	margin-bottom: 10px;
@@ -18,35 +18,37 @@ h1 {text-align: center;
 	border-width: 3px;
 	border-color: black;
 	position: relative;
-	width: 25%;
+	width: 33%
 	float: left;
 }
 
 .box2 {
-	background-color: darkcyan;
-	margin-right: 50px;
-	margin-left: 50px;
-	margin-top: 20px;
-	margin-bottom: 10px;
-	border-style: solid;
-	border-width: 3px;
-	border-color: black;
-	width: 25%;
+  background-color: darkcyan;
+  margin-right: 50px;
+  margin-left: 50px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: black;
+  position: relative;
+  width: 33%
+  float: left;
 }
 
 .box3 {
-	background-color: darkcyan;
-	margin-right: 50px;
-	margin-left: 50px;
-	margin-top: 20px;
-	margin-bottom: 10px;
-	border-style: solid;
-	border-width: 3px;
-	border-color: black;
-	width: 25%;
-  
-  
-}
+  background-color: darkcyan;
+  margin-right: 50px;
+  margin-left: 50px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: black;
+  position: relative;
+  width: 33%
+  float: left;
+  }
 
 p{
 	margin-right: auto;
